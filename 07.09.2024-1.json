@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Ward",
+    "age": 70,
+    "address": {
+        "street": "Cole Brooks",
+        "city": "New Tyler",
+        "state": "Vermont",
+        "zip": "67327"
+    },
+    "contact": {
+        "phone": "4826808602",
+        "servicePhone": "800887429"
+    },
+    "birthday": "1955-22-07",
+    "ip": "221.183.18.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Determine believe level left newspaper realize. Low all order win message usually view.",
+        "bio": "Necessary foreign finish bank. Large better Mrs area everybody. Price whether important also act. Reason continue value where measure.\nApply occur else cell over. Return think point particularly."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
