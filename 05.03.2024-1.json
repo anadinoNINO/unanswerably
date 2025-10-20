@@ -1,0 +1,25 @@
+{
+    "name": "Charles Jordan",
+    "age": 56,
+    "address": {
+        "street": "Hill Station",
+        "city": "West Ashley",
+        "state": "Utah",
+        "zip": "56804"
+    },
+    "contact": {
+        "phone": "(468)474-8388",
+        "servicePhone": "800864111"
+    },
+    "birthday": "1969-24-02",
+    "ip": "184.51.112.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Upon local door. Agent it happen we. Free perform friend but recent leg daughter.",
+        "bio": "Month stuff none effect outside morning if run. Decision morning sign respond gas finally."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
