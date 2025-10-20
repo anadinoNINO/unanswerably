@@ -1,0 +1,25 @@
+{
+    "name": "April Reid",
+    "age": 107,
+    "address": {
+        "street": "Snyder Heights",
+        "city": "West Blakestad",
+        "state": "Idaho",
+        "zip": "17533"
+    },
+    "contact": {
+        "phone": "001-221-935-4306",
+        "servicePhone": "800985807"
+    },
+    "birthday": "1918-14-09",
+    "ip": "186.249.7.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Detail close third Mr.\nForward scene mind shoulder education along ability. Want wide teach sport room need.\nWrong house near because low pattern both. Her team nearly difficult need fire least part.",
+        "bio": "Fill level avoid technology anyone Democrat. Room second activity image consumer. It six situation bit."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
