@@ -1,0 +1,25 @@
+{
+    "name": "Sean Freeman",
+    "age": 17,
+    "address": {
+        "street": "Smith Station",
+        "city": "Desireeland",
+        "state": "Montana",
+        "zip": "58787"
+    },
+    "contact": {
+        "phone": "001-531-656-9593x32582",
+        "servicePhone": "800240568"
+    },
+    "birthday": "2008-30-06",
+    "ip": "36.10.27.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Method smile talk security one character. Floor until its. Cup support play visit court yard.\nLight while send. Walk under tonight guy child.\nRealize event pretty material sing world heart.",
+        "bio": "I on paper kitchen much throw. Everything beat write treat Mrs. Edge whom rich together.\nAmong realize name attorney long image."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
