@@ -1,0 +1,25 @@
+{
+    "name": "Evan Vaughn",
+    "age": 109,
+    "address": {
+        "street": "Alexandra River",
+        "city": "Jasonport",
+        "state": "New York",
+        "zip": "99509"
+    },
+    "contact": {
+        "phone": "001-334-426-7606x03276",
+        "servicePhone": "800183478"
+    },
+    "birthday": "1916-25-12",
+    "ip": "128.184.127.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Bed bank church surface your. Rise born bad paper serious still. North painting consider focus analysis as.\nBank more blood theory type case hotel. Job own whose participant.",
+        "bio": "Born able theory player. Television my whether term approach. Moment goal prevent such bar finally mind.\nGround join find tell source. Three summer service really."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
