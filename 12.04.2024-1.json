@@ -1,0 +1,25 @@
+{
+    "name": "Jenna Nelson",
+    "age": 36,
+    "address": {
+        "street": "Cassie Spring",
+        "city": "Roystad",
+        "state": "Florida",
+        "zip": "45559"
+    },
+    "contact": {
+        "phone": "605-678-9955",
+        "servicePhone": "800853621"
+    },
+    "birthday": "1989-29-04",
+    "ip": "61.213.183.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Source drug box explain power position western west.\nWell theory truth son threat surface. How tough face trip hit back yard material.\nAssume hour number court scientist make past.",
+        "bio": "Discover way sit structure look improve rest before. Call receive style Congress then leg late your. Also behavior hotel."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
