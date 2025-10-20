@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Fuentes",
+    "age": 69,
+    "address": {
+        "street": "Jose Path",
+        "city": "Jonesland",
+        "state": "New York",
+        "zip": "16290"
+    },
+    "contact": {
+        "phone": "614-216-9353",
+        "servicePhone": "800739640"
+    },
+    "birthday": "1956-20-11",
+    "ip": "76.107.215.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Author cultural I. Six meeting fly nor late fine federal.\nFact fear I future TV conference. Site true miss huge without. Notice father exactly director she provide.",
+        "bio": "Stuff level record least. Follow issue prepare small resource moment.\nPrevent system tax bad worry. Available political phone start training point."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
