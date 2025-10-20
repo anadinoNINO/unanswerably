@@ -1,0 +1,25 @@
+{
+    "name": "Laurie Richards",
+    "age": 82,
+    "address": {
+        "street": "Burch Manor",
+        "city": "North Michael",
+        "state": "West Virginia",
+        "zip": "62730"
+    },
+    "contact": {
+        "phone": "442-728-4828x692",
+        "servicePhone": "800520016"
+    },
+    "birthday": "1943-17-05",
+    "ip": "63.24.232.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Wrong happy sense will plan participant concern write. Then clear would impact house factor. Key like strong something benefit impact budget.\nForeign hard manage continue candidate while.",
+        "bio": "Nearly finish feel computer week blue after toward. Finally last out show. Reach specific until economy hotel collection government nothing.\nPresent recognize weight level. Lot near write."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
