@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Horn",
+    "age": 46,
+    "address": {
+        "street": "Newman Pass",
+        "city": "New Michael",
+        "state": "Tennessee",
+        "zip": "94628"
+    },
+    "contact": {
+        "phone": "001-298-997-4408x290",
+        "servicePhone": "800287588"
+    },
+    "birthday": "1979-06-06",
+    "ip": "179.97.84.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold indeed worker born traditional Mrs. Kid chair choice. Accept century medical require tax structure hot.",
+        "bio": "Growth coach thus out sister throw discussion. Something election window bed. Character family win assume claim.\nPlace consider couple bring. Two really quickly region."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
