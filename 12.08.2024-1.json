@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Acevedo",
+    "age": 94,
+    "address": {
+        "street": "Jonathan Vista",
+        "city": "Jordanfort",
+        "state": "South Carolina",
+        "zip": "72403"
+    },
+    "contact": {
+        "phone": "218.626.0299",
+        "servicePhone": "800803885"
+    },
+    "birthday": "1931-25-06",
+    "ip": "84.81.222.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Answer crime yet ball what nor do. Staff employee scientist never. Face suddenly kind remember west politics step chair. Police however loss fill couple place.",
+        "bio": "Sister sort thought prevent statement ability raise. Career painting person.\nNight suddenly hour network look prepare. Picture there soldier TV. Over resource later born."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
