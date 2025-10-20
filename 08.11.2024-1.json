@@ -1,0 +1,25 @@
+{
+    "name": "James Ingram",
+    "age": 96,
+    "address": {
+        "street": "John Fords",
+        "city": "Caldwellhaven",
+        "state": "Massachusetts",
+        "zip": "39195"
+    },
+    "contact": {
+        "phone": "(957)338-3625",
+        "servicePhone": "800955227"
+    },
+    "birthday": "1929-12-04",
+    "ip": "95.176.125.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Agree thank move leg others develop century. Avoid together break century early. Phone system somebody college. Itself view well care seek north.\nBusiness I lay nothing.",
+        "bio": "Recent behind notice when science ok view commercial. Region team audience second author million. Theory no music about those."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
