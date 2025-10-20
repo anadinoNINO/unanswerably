@@ -1,0 +1,25 @@
+{
+    "name": "Sheena Chandler",
+    "age": 65,
+    "address": {
+        "street": "Cochran Plaza",
+        "city": "New Lynn",
+        "state": "New Hampshire",
+        "zip": "45540"
+    },
+    "contact": {
+        "phone": "+1-479-828-7103",
+        "servicePhone": "800752435"
+    },
+    "birthday": "1960-16-01",
+    "ip": "51.17.35.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Everything sister establish rule determine who what. Chair brother body street color. Run certainly go.",
+        "bio": "For perhaps soon somebody argue vote energy. Responsibility mother speak fine policy manager to."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
