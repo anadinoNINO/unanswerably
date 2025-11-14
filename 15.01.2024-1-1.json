@@ -1,0 +1,25 @@
+{
+    "name": "Faith Miller",
+    "age": 112,
+    "address": {
+        "street": "Robert Burgs",
+        "city": "Port Fernando",
+        "state": "Delaware",
+        "zip": "74519"
+    },
+    "contact": {
+        "phone": "681-422-1447x8050",
+        "servicePhone": "800281317"
+    },
+    "birthday": "1913-27-05",
+    "ip": "103.102.88.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Current rather miss teacher improve. Yet record home.\nBig service successful. News prevent sign. Spend positive church point.",
+        "bio": "Fight be these owner themselves performance. Section mother give quality chance dinner. Agreement herself already authority really never need."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
